@@ -33,4 +33,5 @@ alias upmirrors='sudo reflector --score 100 --fastest 25 --sort rate --save /etc
 
 neofetch
 
+export EDITOR="vim"
 export RTV_BROWSER="qutebrowser"
