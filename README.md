@@ -1,2 +1,2 @@
 #dotfiles
-dotfiles in use using i3 and zsh on archlinux
+dotfiles in use on my desktop running archlinux
